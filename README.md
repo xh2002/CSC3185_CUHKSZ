@@ -1,2 +1,4 @@
-# CSC3185_final
-Project of CSC3185 at CUHK(SZ), 2023 Fall 
+# CSC3185_CUHKSZ
+CSC3185 Introduction of Multi-media System course of CUHK(SZ) during 2023-2024 Fall semester
+Project post page
+
